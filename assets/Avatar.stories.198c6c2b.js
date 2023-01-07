@@ -1,0 +1,2 @@
+import{A as r}from"./index.7facf793.js";import"./index.d82d68bf.js";import"./iframe.95dcbfb4.js";import"./index.7c384bb0.js";import"./jsx-runtime.b0d3e336.js";const m={title:"Surfaces/Avatar",component:r,args:{src:"https://source.unsplash.com/random/400x400",alt:"Random image"},argTypes:{src:{control:{type:"text"}}}},e={},i={args:{src:void 0}},p=["Primary","WithFallBack"];export{e as Primary,i as WithFallBack,p as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories.198c6c2b.js.map
