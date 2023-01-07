@@ -5,12 +5,16 @@
  ],
  "scripts": {
   "dev": "turbo run dev --parallel",
-  "build": "turbo run build"
+  "build": "turbo run build",
+  "changeset": "changeset",
+  "version-packages": "changeset version",
+  "release": "turbo run build --filter=@hcignite/docs && changeset publish"
  },
  "devDependencies": {
   "turbo": "^1.5.5"
  },
  "dependencies": {
+  "@changesets/cli": "^2.26.0",
   "phosphor-react": "^1.4.1"
  }
 }
