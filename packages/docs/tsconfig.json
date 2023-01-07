@@ -1,4 +1,4 @@
 {
   "extends": "@hcignite/ts-config/react.json",
   "include": ["src"],
-}
+} 
